@@ -10,7 +10,8 @@ Conduct training by running the "Model training" section of the notebook. This w
 In order to test the model, run the model in Jupyter Notebook and make sure to test the images included in the project files. 
 
 **Script Explanation**<br/>
-(description of what each source code does)
+ProjectTheta is used for model training, preprocessing, and model testing. The classifier is used to classify a single image using the 
+created models.
 
 **Model Architecture Summary**<br/>
 The model architecture is based on the ResNet50 model, with the final fully connected (FC) layer altered to output vehicle type, subtype, and color.
