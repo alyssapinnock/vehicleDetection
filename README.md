@@ -16,8 +16,10 @@ In order to test the model, run the model in Jupyter Notebook and make sure to t
 The model architecture is based on the ResNet50 model, with the final fully connected (FC) layer altered to output vehicle type, subtype, and color.
 It includes 13 layers, with 5 linear layers, 4 ReLU activation functions, and 4 dropout layers.
 
-**Requirements**\
-''pip install numpy pandas torch torchvision seaborn
-
 # Dataset Instructions:
 (https://webcourses.ucf.edu/files/112308129/download?download_frd=1)
+
+**Requirements**
+```bash
+pip install numpy pandas torch torchvision seaborn
+
