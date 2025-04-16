@@ -18,3 +18,6 @@ It includes 13 layers, with 5 linear layers, 4 ReLU activation functions, and 4 
 
 **Requirements**\
 ''pip install numpy pandas torch torchvision seaborn
+
+# Dataset Instructions:
+(https://webcourses.ucf.edu/files/112308129/download?download_frd=1)
