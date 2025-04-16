@@ -7,7 +7,7 @@ Training for the second version of the AVIDNet model will be in the "Eval-2-Vers
 Conduct training by running the "Model training" section of the notebook. This will run new training for the model.
 
 **Testing AVIDNet**<br/>
-In order to test the model, run the model in Jupyter Notebook and make sure to test the images included in the project files. 
+In order to test the model, run the file in Jupyter Notebook and make sure to test the images included in the project files. 
 
 **Script Explanation**<br/>
 ProjectTheta is used for model training, preprocessing, and model testing. The classifier is used to classify a single image using the 
